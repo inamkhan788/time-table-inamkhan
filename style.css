@@ -1,0 +1,40 @@
+body {
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color:coral;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inputId {
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+button {
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 4px;
+    background-color: black;
+    color: white;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    /* color: white; */
+}
